@@ -5,9 +5,9 @@ This wordlist includes 107 rockme.txt word. IT IS SOOO AMAZING!
 ## Checksums
 rockme.tar.gz
 | Algorithm | Checksum |
-|:---------:|:----------------------------|
-| MD5       | d2f9a96a68d2826117a3bcbdafb83eb7 |
-| SHA1      | 90d88e558930b175252738e1ddcb175c3e847ed8 |
-| SHA256    | c74de602cacc8a05990d51cd3f91b5034d0d897e302f7ca8777e6a3a514edabc |
-## IMPORTANT
+|:----------|:----------------------------|
+| MD5       | f0f81997c89e5ba81a336d3830972c32 |
+| SHA1      | e455fc549244eb96c56705a4a1cd0bd371696596 |
+| SHA256    | aa1f0d1e2f38b376b1cf9c0c03ef335a4234e26965f595f40c1cdc8b6d286baa |
+## Important
 Don't use normal text editors to open this file unless you have about 16 GB of RAM, or you may face RAM Crash.

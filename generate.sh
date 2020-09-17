@@ -5,12 +5,13 @@ WORDLIST_COMPRESSED="rockme.tar.gz"
 echo "Counting words..."
 WORD_COUNT=$(wc -l $WORDLIST)
 
+echo "Sorting wordlist..."
+sort -o $WORDLIST $WORDLIST
+
 echo "Compressing wordlist..."
-# create .tar.gz
 tar cfvz $WORDLIST_COMPRESSED $WORDLIST
 
 echo "Calculating checksums..."
-# calculate checksums
 MD5=($(md5sum $WORDLIST_COMPRESSED))
 SHA1=($(sha1sum $WORDLIST_COMPRESSED))
 SHA256=($(sha256sum $WORDLIST_COMPRESSED))
@@ -26,12 +27,12 @@ echo "This wordlist includes ${WORD_COUNT} word. IT IS SOOO AMAZING!" >> $README
 echo "## Checksums" >> $README
 echo $WORDLIST_COMPRESSED >> $README
 echo "| Algorithm | Checksum |" >> $README
-echo "|:---------:|:----------------------------|" >> $README
+echo "|:----------|:----------------------------|" >> $README
 echo "| MD5       | $MD5 |" >> $README
 echo "| SHA1      | $SHA1 |" >> $README
 echo "| SHA256    | $SHA256 |" >> $README
 
-echo "## IMPORTANT" >> $README
+echo "## Important" >> $README
 echo "Don't use normal text editors to open this file unless you have about 16 GB of RAM, or you may face RAM Crash." >> $README
 
 echo "Done."
