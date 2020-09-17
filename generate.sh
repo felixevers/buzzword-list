@@ -6,7 +6,7 @@ echo "Counting words..."
 WORD_COUNT=$(wc -l $WORDLIST)
 
 echo "Sorting wordlist..."
-sort -o $WORDLIST $WORDLIST
+sort -u -o $WORDLIST $WORDLIST
 
 echo "Compressing wordlist..."
 tar cfvz $WORDLIST_COMPRESSED $WORDLIST
