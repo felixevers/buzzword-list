@@ -3,7 +3,7 @@ WORDLIST="rockme.txt"
 WORDLIST_COMPRESSED="rockme.tar.gz"
 
 echo "Counting words..."
-WORD_COUNT=$(wc -l $WORDLIST)
+WORD_COUNT=($(wc -l $WORDLIST))
 
 echo "Sorting wordlist..."
 sort -u -o $WORDLIST $WORDLIST
@@ -22,7 +22,7 @@ echo "# Buzzwords  " > $README
 echo "The largest buzzword list collection on the globe. Including words like COWORKING... AND MANY MORE!!!" >> $README
 
 echo "## Words  " >> $README
-echo "This wordlist includes ${WORD_COUNT} word. IT IS SOOO AMAZING!" >> $README
+echo "This wordlist contains ${WORD_COUNT} words. IT IS SOOO AMAZING!" >> $README
 
 echo "## Checksums" >> $README
 echo $WORDLIST_COMPRESSED >> $README
