@@ -13,6 +13,7 @@ Blockchain
 Bring your own Device
 Buzzword
 Buzzword compliant
+clean Code
 Clicks
 Cloud
 Cloud Compution
