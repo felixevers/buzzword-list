@@ -49,10 +49,12 @@ Holistisches Marketing
 Home Office
 Host
 Immersive Storytelling
+Industry 4.0
 Influencer Marketing
 Internet Of Things
 Invested in
 Key Performance Indicators
+Kubernetes
 Leverage Effect
 Lose-Lose
 Micro-influencer marketing
@@ -82,6 +84,7 @@ Real Time Marketing
 Relationship Marketing
 Responsive
 Responsive Web Design
+Return on Investment
 Roadmap
 Robust
 Schneeballsystem
