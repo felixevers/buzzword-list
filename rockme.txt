@@ -53,6 +53,8 @@ Immersive Storytelling
 Influencer Marketing
 Internet Of Things
 Invested in
+Java
+JavaScript
 Key Performance Indicators
 Leverage Effect
 Lose-Lose
@@ -62,6 +64,7 @@ Microservice Driven Personalization Engine
 Microservices
 Millennials
 Mobile first
+Monero
 Multichannel Marketing
 Multiexperience
 Networking
@@ -86,6 +89,7 @@ Responsive Web Design
 Roadmap
 Robust
 Schneeballsystem
+Script
 Search engine optimization
 Self Driving
 Snackable Content
@@ -105,3 +109,4 @@ Web 2.0
 Win-win
 Workflow
 Youtube Algorithm
+Zcash
