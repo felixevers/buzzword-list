@@ -21,6 +21,7 @@ Cloud Compution
 Cloud Working
 Computer Vision
 Consumer-zentriert
+Container
 Conversion Rate Optimisation
 Coworking
 Coworking-Space
@@ -31,7 +32,7 @@ Customer Journey
 Dark Web
 Data Mining
 Data Science
-Deep Web
+Deep Learning
 Design Thinking
 DevOps
 Digital Knowledge Management
@@ -42,8 +43,8 @@ End-To-End
 Enterprise Resource Planning
 Establishment
 Gamification
-Gen Z
 Generation Y
+Gen Z
 Geotargeting
 Globale Depression
 Hashtag
@@ -59,8 +60,9 @@ Invested in
 Key Performance Indicators
 Leverage Effect
 Lose-Lose
-Micro Moments
+Machine learning
 Micro-influencer marketing
+Micro Moments
 Microservice Driven Personalization Engine
 Microservices
 Millennials
