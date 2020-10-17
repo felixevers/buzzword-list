@@ -5,6 +5,7 @@ Agile
 Application Programming Interface
 Artificial Intelligence
 Artificial Intelligence Driven Supply Chain Management
+Augmented reality
 Behavioral Targeting
 Best Practices
 Big Data
@@ -37,6 +38,8 @@ DevOps
 Digital Knowledge Management
 Digital Native
 Digital Storytelling
+Digital transformation
+Disruptive
 Employee Advocacy Marketing
 End-To-End
 Enterprise Resource Planning
@@ -52,7 +55,9 @@ Holistisches Marketing
 Home Office
 Host
 Immersive Storytelling
+Industry leading
 Influencer Marketing
+Innovation
 Internet Of Things
 Invested in
 Key Performance Indicators
@@ -66,6 +71,7 @@ Millennials
 Mobile first
 Multichannel Marketing
 Multiexperience
+Net Neutrality
 Networking
 Neural Networks
 Next Generation
@@ -94,6 +100,7 @@ Search engine optimization
 Self Driving
 Snackable Content
 Social Entrepreneurship
+Software-Defined Networking
 Soulution
 Stakeholder
 Survival strategy
