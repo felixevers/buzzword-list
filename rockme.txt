@@ -5,7 +5,6 @@ Agile
 Application Programming Interface
 Artificial Intelligence
 Artificial Intelligence Driven Supply Chain Management
-Augmented reality
 Behavioral Targeting
 Best Practices
 Big Data
@@ -22,6 +21,7 @@ Cloud Compution
 Cloud Working
 Computer Vision
 Consumer-zentriert
+Container
 Conversion Rate Optimisation
 Coworking
 Coworking-Space
@@ -32,7 +32,7 @@ Customer Journey
 Dark Web
 Data Mining
 Data Science
-Deep Web
+Deep Learning
 Design Thinking
 DevOps
 Digital Knowledge Management
@@ -55,14 +55,15 @@ Holistisches Marketing
 Home Office
 Host
 Immersive Storytelling
+Industry 4.0
 Industry leading
 Influencer Marketing
-Innovation
 Internet Of Things
 Invested in
 Key Performance Indicators
 Leverage Effect
 Lose-Lose
+Machine learning
 Micro Moments
 Micro-influencer marketing
 Microservice Driven Personalization Engine
@@ -92,6 +93,7 @@ Real Time Marketing
 Relationship Marketing
 Responsive
 Responsive Web Design
+Return on Investment
 Roadmap
 Robotics
 Robust
