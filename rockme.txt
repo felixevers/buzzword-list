@@ -1,4 +1,6 @@
+=======
 5G
+>>>>>>> 91d85e98a977eb8dab2a6ea389d2d385b750cca1
 Advertising
 Affiliate Marketing
 Agile
@@ -29,15 +31,17 @@ Creative
 Cross-Paltform
 Customer Experience
 Customer Journey
-Dark Web
 Data Mining
 Data Science
 Deep Learning
+Deep Web
 Design Thinking
 DevOps
 Digital Knowledge Management
 Digital Native
 Digital Storytelling
+Digital transformation
+Disruptive
 Employee Advocacy Marketing
 End-To-End
 Enterprise Resource Planning
@@ -48,12 +52,14 @@ Gen Z
 Geotargeting
 Globale Depression
 Hashtag
+<<<<<<< HEAD
 Hipster
 Holistisches Marketing
 Home Office
 Host
 Immersive Storytelling
 Industry 4.0
+Industry leading
 Influencer Marketing
 Internet Of Things
 Invested in
@@ -69,6 +75,7 @@ Millennials
 Mobile first
 Multichannel Marketing
 Multiexperience
+Net Neutrality
 Networking
 Neural Networks
 Next Generation
@@ -98,6 +105,7 @@ Search engine optimization
 Self Driving
 Snackable Content
 Social Entrepreneurship
+Software-Defined Networking
 Soulution
 Stakeholder
 Survival strategy
