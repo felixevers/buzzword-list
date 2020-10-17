@@ -1,6 +1,4 @@
-=======
 5G
->>>>>>> 91d85e98a977eb8dab2a6ea389d2d385b750cca1
 Advertising
 Affiliate Marketing
 Agile
@@ -52,7 +50,6 @@ Gen Z
 Geotargeting
 Globale Depression
 Hashtag
-<<<<<<< HEAD
 Hipster
 Holistisches Marketing
 Home Office
