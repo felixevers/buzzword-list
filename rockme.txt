@@ -13,11 +13,13 @@ Blockchain
 Bring your own Device
 Buzzword
 Buzzword compliant
+Chatbot
 Clean Code
 Clicks
 Cloud
 Cloud Compution
 Cloud Working
+Computer Vision
 Consumer-zentriert
 Conversion Rate Optimisation
 Coworking
@@ -40,8 +42,8 @@ End-To-End
 Enterprise Resource Planning
 Establishment
 Gamification
-Generation Y
 Gen Z
+Generation Y
 Geotargeting
 Globale Depression
 Hashtag
@@ -57,8 +59,8 @@ Invested in
 Key Performance Indicators
 Leverage Effect
 Lose-Lose
-Micro-influencer marketing
 Micro Moments
+Micro-influencer marketing
 Microservice Driven Personalization Engine
 Microservices
 Millennials
@@ -73,6 +75,7 @@ Open Source
 Opportunities
 Outsourcing
 Performance Marketing
+Personalization
 Pitch
 Pitch Desk
 Podcast
@@ -86,6 +89,7 @@ Responsive
 Responsive Web Design
 Return on Investment
 Roadmap
+Robotics
 Robust
 Schneeballsystem
 Search engine optimization
