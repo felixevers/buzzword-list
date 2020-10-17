@@ -32,7 +32,7 @@ Customer Journey
 Dark Web
 Data Mining
 Data Science
-Deep Web
+Deep Learning
 Design Thinking
 DevOps
 Digital Knowledge Management
@@ -58,9 +58,9 @@ Influencer Marketing
 Internet Of Things
 Invested in
 Key Performance Indicators
-Kubernetes
 Leverage Effect
 Lose-Lose
+Machine learning
 Micro Moments
 Micro-influencer marketing
 Microservice Driven Personalization Engine
