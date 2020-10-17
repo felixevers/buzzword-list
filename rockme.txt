@@ -57,6 +57,7 @@ Influencer Marketing
 Internet Of Things
 Invested in
 Key Performance Indicators
+Kubernetes
 Leverage Effect
 Lose-Lose
 Micro Moments
