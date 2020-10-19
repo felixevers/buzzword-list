@@ -6,8 +6,8 @@ This wordlist contains 120 words. IT IS SOOO AMAZING!
 rockme.tar.gz
 | Algorithm | Checksum |
 |:----------|:----------------------------|
-| MD5       | 62fb2a37eb1cf20146d44bc2f1a22519 |
-| SHA1      | 427429fec1a5e4447a167ae75e55beb994401bcc |
-| SHA256    | bbf13c5cfe0aa8e57c592f2f26df42fa992e7b5fedbd2eada0f5f07352a2146a |
+| MD5       | 473293549626afb890d2c8d218fb504f |
+| SHA1      | 05337d6844e8b1793916837852ffdaac51532a4b |
+| SHA256    | 7fda2f8d61c01a38e14c406a7071a7060b3d6179ea99322c4c7439f210393aec |
 ## Important
 Don't use normal text editors to open this file unless you have about 16 GB of RAM, or you may face RAM Crash.

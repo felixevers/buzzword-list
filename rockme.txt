@@ -45,8 +45,8 @@ End-To-End
 Enterprise Resource Planning
 Establishment
 Gamification
-Generation Y
 Gen Z
+Generation Y
 Geotargeting
 Globale Depression
 Hashtag
@@ -64,8 +64,8 @@ Key Performance Indicators
 Leverage Effect
 Lose-Lose
 Machine learning
-Micro-influencer marketing
 Micro Moments
+Micro-influencer marketing
 Microservice Driven Personalization Engine
 Microservices
 Millennials
