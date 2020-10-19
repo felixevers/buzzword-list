@@ -1,0 +1,18 @@
+name: Generate
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: rm rockme.tar.gz -rf
+      - run: bash generate.sh
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Generate
+          branch: master
