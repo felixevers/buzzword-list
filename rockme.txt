@@ -26,7 +26,7 @@ Conversion Rate Optimisation
 Coworking
 Coworking-Space
 Creative
-Cross-Paltform
+Cross-Paltfworm
 Customer Experience
 Customer Journey
 Data Mining
@@ -118,3 +118,123 @@ Web 2.0
 Win-win
 Workflow
 Youtube Algorithm
+Carbon Neutral
+Keynote
+Fiber To The Desk
+Dropshipping
+Shareholder
+Learnings
+Social Engineering
+Gender Equality
+Global Depression
+New Work
+Smart Buisness Automation
+Buisness-To-Buisness
+Buisness-To-Customer
+Customer-To-Customer
+Ted Talk
+Lifehack
+Customer-Relationship-Management
+Reliability
+Legal Tech
+Edge Computing
+Serverless
+Enabler
+Early Adopter
+Low Hanging Fruits
+Visual Storytelling
+Spirit
+Service Mesh
+Analytics
+Scalability
+Mindset
+101 Principles
+Masterclass
+Chief Executive Officer
+Chief Financial Officer
+Floor Management
+Facility Management
+Distributed Hash Tables
+Real World Problems
+Peer-To-Peer
+Contextual Marketing
+Disruptor
+Freemium
+Hyperlocal
+Growth Hacking
+Hackathon
+Innovators
+Ideation
+Pain Points
+Paid Placement
+Retargeting
+Storyscaping
+Second-Screen
+Transparency
+Pioneer
+Visual Statements
+Web Personalization
+Renewable Energy
+Content Management System
+Headless
+Break Even Point
+Kick-Off Meeting
+Loyalty As Service
+Fuzzy Logic
+Sensorization
+Webinar
+Tagging
+Fashion
+Jour Fixe
+Information Society
+National security
+Fintech
+Digital Unplugged
+Autoscaling
+Initial Public Offering
+Cyber-physical Systems
+Venture-Capital
+Pennystocks
+Make it pop
+Case Study
+Wallstreet
+Spin-Up
+Exit Strategy
+Business Intelligence Tools
+Geotargiting
+Downsizing
+Take Offline
+Startup
+Internet Pure Player
+eCommerce
+Digital Rights Management
+Paradigm Shift
+Moving forward
+Brand
+Business Accelerator
+Business Angel
+Enterprise-Resource-Planning
+Chief Operating Officer
+Chief Technology Officer
+Fast Fashion
+Brand Identity
+Rebranding
+White Label
+Bounce Rate
+Direct-to-Consumer
+Marketing Efforts
+Affinity Marketing
+Social Media Marketing
+Unicorns
+Flywheel
+Key Performance Indicator
+Minimum Viable Product
+Marketing Automation
+Thought Leader
+Content Shock
+Geofencing
+Customer Lifetime Value
+Cost-Per-Click
+Pay-Per-Click
+Close the Loop
+Extended Reality
