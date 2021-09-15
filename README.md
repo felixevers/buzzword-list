@@ -1,13 +1,13 @@
 # Buzzwords  
 The largest buzzword list collection on the globe. Including words like COWORKING... AND MANY MORE!!!
 ## Words  
-This wordlist contains 120 words. IT IS SOOO AMAZING!
+This wordlist contains 240 words. IT IS SOOO AMAZING!
 ## Checksums
 rockme.tar.gz
 | Algorithm | Checksum |
 |:----------|:----------------------------|
-| MD5       | 9ff64e179ae9ac6e6cb057fabdd1352d |
-| SHA1      | 2d0352b7a5d7061522da4da7f1236466b6652b36 |
-| SHA256    | 07458b06cf7a6b5904bfaa1f66ee845afa8a615dc9c7e34460e9dbd848b295c1 |
+| MD5       | cafb84f0c7a28d0f84e586427fb2815c |
+| SHA1      | f80cde9c223ce13fcca1cabf5aca545ac7d20118 |
+| SHA256    | f23e1f4d95ed861f12fd9e507b5e17acc70e1817149d85c3c80ce3680e3278ca |
 ## Important
 Don't use normal text editors to open this file unless you have about 16 GB of RAM, or you may face RAM Crash.

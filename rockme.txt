@@ -1,34 +1,62 @@
+101 Principles
 5G
 Advertising
 Affiliate Marketing
+Affinity Marketing
 Agile
+Analytics
 Application Programming Interface
 Artificial Intelligence
 Artificial Intelligence Driven Supply Chain Management
+Autoscaling
 Behavioral Targeting
 Best Practices
 Big Data
 Bitcoin
 Blockchain
+Bounce Rate
+Brand
+Brand Identity
+Break Even Point
 Bring your own Device
+Buisness-To-Buisness
+Buisness-To-Customer
+Business Accelerator
+Business Angel
+Business Intelligence Tools
 Buzzword
 Buzzword compliant
+Carbon Neutral
+Case Study
 Chatbot
+Chief Executive Officer
+Chief Financial Officer
+Chief Operating Officer
+Chief Technology Officer
 Clean Code
 Clicks
+Close the Loop
 Cloud
 Cloud Compution
 Cloud Working
 Computer Vision
 Consumer-zentriert
 Container
+Content Management System
+Content Shock
+Contextual Marketing
 Conversion Rate Optimisation
+Cost-Per-Click
 Coworking
 Coworking-Space
 Creative
 Cross-Paltfworm
 Customer Experience
 Customer Journey
+Customer Lifetime Value
+Customer-Relationship-Management
+Customer-To-Customer
+Cyber-physical Systems
 Data Mining
 Data Science
 Deep Learning
@@ -37,51 +65,111 @@ Design Thinking
 DevOps
 Digital Knowledge Management
 Digital Native
+Digital Rights Management
 Digital Storytelling
+Digital Unplugged
 Digital transformation
+Direct-to-Consumer
 Disruptive
+Disruptor
+Distributed Hash Tables
+Downsizing
+Dropshipping
+Early Adopter
+Edge Computing
 Employee Advocacy Marketing
+Enabler
 End-To-End
 Enterprise Resource Planning
+Enterprise-Resource-Planning
 Establishment
+Exit Strategy
+Extended Reality
+Facility Management
+Fashion
+Fast Fashion
+Fiber To The Desk
+Fintech
+Floor Management
+Flywheel
+Freemium
+Fuzzy Logic
 Gamification
 Gen Z
+Gender Equality
 Generation Y
+Geofencing
 Geotargeting
+Geotargiting
+Global Depression
 Globale Depression
+Growth Hacking
+Hackathon
 Hashtag
+Headless
 Hipster
 Holistisches Marketing
 Home Office
 Host
+Hyperlocal
+Ideation
 Immersive Storytelling
 Industry 4.0
 Industry leading
 Influencer Marketing
+Information Society
+Initial Public Offering
+Innovators
 Internet Of Things
+Internet Pure Player
 Invested in
+Jour Fixe
+Key Performance Indicator
 Key Performance Indicators
+Keynote
+Kick-Off Meeting
+Learnings
+Legal Tech
 Leverage Effect
+Lifehack
 Lose-Lose
+Low Hanging Fruits
+Loyalty As Service
 Machine learning
+Make it pop
+Marketing Automation
+Marketing Efforts
+Masterclass
 Micro Moments
 Micro-influencer marketing
 Microservice Driven Personalization Engine
 Microservices
 Millennials
+Mindset
+Minimum Viable Product
 Mobile first
+Moving forward
 Multichannel Marketing
 Multiexperience
+National security
 Net Neutrality
 Networking
 Neural Networks
+New Work
 Next Generation
 No-Brainer
 Open Source
 Opportunities
 Outsourcing
+Paid Placement
+Pain Points
+Paradigm Shift
+Pay-Per-Click
+Peer-To-Peer
+Pennystocks
 Performance Marketing
 Personalization
+Pioneer
 Pitch
 Pitch Desk
 Podcast
@@ -90,151 +178,63 @@ Project-Based Learning
 Proximity Marketing
 Quantum Computing
 Real Time Marketing
+Real World Problems
+Rebranding
 Relationship Marketing
+Reliability
+Renewable Energy
 Responsive
 Responsive Web Design
+Retargeting
 Return on Investment
 Roadmap
 Robotics
 Robust
+Scalability
 Schneeballsystem
 Search engine optimization
+Second-Screen
 Self Driving
+Sensorization
+Serverless
+Service Mesh
+Shareholder
+Smart Buisness Automation
 Snackable Content
+Social Engineering
 Social Entrepreneurship
+Social Media Marketing
 Software-Defined Networking
 Soulution
+Spin-Up
+Spirit
 Stakeholder
+Startup
+Storyscaping
 Survival strategy
 Sustainability
 Swipe File
+Tagging
+Take Offline
+Ted Talk
+Thought Leader
 Toolchain
+Transparency
+Unicorns
 User-generated content
 Vegan
+Venture-Capital
 Viral
 Virtual Desktop Infrastructure
 Virtual Reality
+Visual Statements
+Visual Storytelling
+Wallstreet
 Web 2.0
+Web Personalization
+Webinar
+White Label
 Win-win
 Workflow
 Youtube Algorithm
-Carbon Neutral
-Keynote
-Fiber To The Desk
-Dropshipping
-Shareholder
-Learnings
-Social Engineering
-Gender Equality
-Global Depression
-New Work
-Smart Buisness Automation
-Buisness-To-Buisness
-Buisness-To-Customer
-Customer-To-Customer
-Ted Talk
-Lifehack
-Customer-Relationship-Management
-Reliability
-Legal Tech
-Edge Computing
-Serverless
-Enabler
-Early Adopter
-Low Hanging Fruits
-Visual Storytelling
-Spirit
-Service Mesh
-Analytics
-Scalability
-Mindset
-101 Principles
-Masterclass
-Chief Executive Officer
-Chief Financial Officer
-Floor Management
-Facility Management
-Distributed Hash Tables
-Real World Problems
-Peer-To-Peer
-Contextual Marketing
-Disruptor
-Freemium
-Hyperlocal
-Growth Hacking
-Hackathon
-Innovators
-Ideation
-Pain Points
-Paid Placement
-Retargeting
-Storyscaping
-Second-Screen
-Transparency
-Pioneer
-Visual Statements
-Web Personalization
-Renewable Energy
-Content Management System
-Headless
-Break Even Point
-Kick-Off Meeting
-Loyalty As Service
-Fuzzy Logic
-Sensorization
-Webinar
-Tagging
-Fashion
-Jour Fixe
-Information Society
-National security
-Fintech
-Digital Unplugged
-Autoscaling
-Initial Public Offering
-Cyber-physical Systems
-Venture-Capital
-Pennystocks
-Make it pop
-Case Study
-Wallstreet
-Spin-Up
-Exit Strategy
-Business Intelligence Tools
-Geotargiting
-Downsizing
-Take Offline
-Startup
-Internet Pure Player
 eCommerce
-Digital Rights Management
-Paradigm Shift
-Moving forward
-Brand
-Business Accelerator
-Business Angel
-Enterprise-Resource-Planning
-Chief Operating Officer
-Chief Technology Officer
-Fast Fashion
-Brand Identity
-Rebranding
-White Label
-Bounce Rate
-Direct-to-Consumer
-Marketing Efforts
-Affinity Marketing
-Social Media Marketing
-Unicorns
-Flywheel
-Key Performance Indicator
-Minimum Viable Product
-Marketing Automation
-Thought Leader
-Content Shock
-Geofencing
-Customer Lifetime Value
-Cost-Per-Click
-Pay-Per-Click
-Close the Loop
-Extended Reality
