@@ -39,6 +39,7 @@ Close the Loop
 Cloud
 Cloud Compution
 Cloud Working
+Cognitive Load
 Computer Vision
 Consumer-zentriert
 Container
@@ -59,6 +60,7 @@ Customer-To-Customer
 Cyber-physical Systems
 Data Mining
 Data Science
+Deep Dive Technology
 Deep Learning
 Deep Web
 Design Thinking
@@ -77,6 +79,7 @@ Downsizing
 Dropshipping
 Early Adopter
 Edge Computing
+Emerging Markets
 Employee Advocacy Marketing
 Enabler
 End-To-End
@@ -89,6 +92,7 @@ Facility Management
 Fashion
 Fast Fashion
 Fiber To The Desk
+Filter Bubble
 Fintech
 Floor Management
 Flywheel
@@ -152,6 +156,7 @@ Moving forward
 Multichannel Marketing
 Multiexperience
 National security
+Need Generation
 Net Neutrality
 Networking
 Neural Networks
@@ -194,6 +199,7 @@ Scalability
 Search engine optimization
 Second-Screen
 Self Driving
+Sementic Web
 Sensorization
 Serverless
 Service Mesh
@@ -213,12 +219,14 @@ Storyscaping
 Survival strategy
 Sustainability
 Swipe File
+Synergistic Alliances
+TED Talk
 Tagging
 Take Offline
-TED Talk
 Thought Leader
 Toolchain
 Transparency
+Trunk based Development
 Unicorns
 User-generated content
 Vegan
@@ -237,11 +245,3 @@ Win-win
 Workflow
 Youtube Algorithm
 eCommerce
-Trunk based Development
-Cognitive Load
-Synergistic Alliances
-Need Generation
-Sementic Web
-Filter Bubble
-Deep Dive Technology
-Emerging Markets
