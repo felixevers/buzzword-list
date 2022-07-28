@@ -191,7 +191,6 @@ Roadmap
 Robotics
 Robust
 Scalability
-Schneeballsystem
 Search engine optimization
 Second-Screen
 Self Driving
@@ -216,7 +215,7 @@ Sustainability
 Swipe File
 Tagging
 Take Offline
-Ted Talk
+TED Talk
 Thought Leader
 Toolchain
 Transparency
@@ -238,3 +237,11 @@ Win-win
 Workflow
 Youtube Algorithm
 eCommerce
+Trunk based Development
+Cognitive Load
+Synergistic Alliances
+Need Generation
+Sementic Web
+Filter Bubble
+Deep Dive Technology
+Emerging Markets
