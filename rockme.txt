@@ -69,8 +69,8 @@ Digital Knowledge Management
 Digital Native
 Digital Rights Management
 Digital Storytelling
-Digital transformation
 Digital Unplugged
+Digital transformation
 Direct-to-Consumer
 Disruptive
 Disruptor
@@ -78,7 +78,6 @@ Distributed Hash Tables
 Downsizing
 Dropshipping
 Early Adopter
-eCommerce
 Edge Computing
 Emerging Markets
 Employee Advocacy Marketing
@@ -100,9 +99,9 @@ Flywheel
 Freemium
 Fuzzy Logic
 Gamification
+Gen Z
 Gender Equality
 Generation Y
-Gen Z
 Geofencing
 Geotargeting
 Geotargiting
@@ -129,9 +128,9 @@ Internet Of Things
 Internet Pure Player
 Invested in
 Jour Fixe
-Keynote
 Key Performance Indicator
 Key Performance Indicators
+Keynote
 Kick-Off Meeting
 Learnings
 Legal Tech
@@ -145,8 +144,8 @@ Make it pop
 Marketing Automation
 Marketing Efforts
 Masterclass
-Micro-influencer marketing
 Micro Moments
+Micro-influencer marketing
 Microservice Driven Personalization Engine
 Microservices
 Millennials
@@ -222,9 +221,9 @@ Survival strategy
 Sustainability
 Swipe File
 Synergistic Alliances
+TED Talk
 Tagging
 Take Offline
-TED Talk
 Thought Leader
 Toolchain
 Transparency
@@ -240,9 +239,10 @@ Visual Statements
 Visual Storytelling
 Wallstreet
 Web 2.0
-Webinar
 Web Personalization
+Webinar
 White Label
 Win-win
 Workflow
 Youtube Algorithm
+eCommerce
