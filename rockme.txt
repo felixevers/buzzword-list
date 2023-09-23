@@ -14,6 +14,7 @@ Best Practices
 Big Data
 Bitcoin
 Blockchain
+Blockchain as a Service (BaaS)
 Bounce Rate
 Brand
 Brand Identity
@@ -29,6 +30,7 @@ Buzzword compliant
 Carbon Neutral
 Case Study
 Chatbot
+ChatOps
 Chief Executive Officer
 Chief Financial Officer
 Chief Operating Officer
@@ -38,6 +40,7 @@ Clicks
 Close the Loop
 Cloud
 Cloud Compution
+Cloud-Native
 Cloud Working
 Cognitive Load
 Computer Vision
@@ -52,14 +55,22 @@ Coworking
 Coworking-Space
 Creative
 Cross-Paltfworm
+Customer-Centric
 Customer Experience
 Customer Journey
 Customer Lifetime Value
 Customer-Relationship-Management
 Customer-To-Customer
 Cyber-physical Systems
+Data Anonymization
+Data-Driven Marketing
+Data Encryption
+Data Ethics
+Data Governance
 Data Mining
 Data Science
+Data Warehousing
+Decentralized Finance (DeFi)
 Deep Dive Technology
 Deep Learning
 Deep Web
@@ -69,15 +80,17 @@ Digital Knowledge Management
 Digital Native
 Digital Rights Management
 Digital Storytelling
-Digital Unplugged
 Digital transformation
+Digital Unplugged
 Direct-to-Consumer
 Disruptive
 Disruptor
 Distributed Hash Tables
+Distributed Ledger Technology (DLT)
 Downsizing
 Dropshipping
 Early Adopter
+eCommerce
 Edge Computing
 Emerging Markets
 Employee Advocacy Marketing
@@ -86,6 +99,7 @@ End-To-End
 Enterprise Resource Planning
 Enterprise-Resource-Planning
 Establishment
+Ethical AI
 Exit Strategy
 Extended Reality
 Facility Management
@@ -99,14 +113,18 @@ Flywheel
 Freemium
 Fuzzy Logic
 Gamification
-Gen Z
+Gamified Learning
+Gamified Marketing
 Gender Equality
 Generation Y
+Gen Z
 Geofencing
 Geotargeting
 Geotargiting
 Global Depression
 Globale Depression
+Green IT
+Green Tech
 Growth Hacking
 Hackathon
 Hashtag
@@ -126,11 +144,12 @@ Initial Public Offering
 Innovators
 Internet Of Things
 Internet Pure Player
+Interoperability
 Invested in
 Jour Fixe
+Keynote
 Key Performance Indicator
 Key Performance Indicators
-Keynote
 Kick-Off Meeting
 Learnings
 Legal Tech
@@ -140,18 +159,23 @@ Lose-Lose
 Low Hanging Fruits
 Loyalty As Service
 Machine learning
+Machine Learning Operations (MLOps)
+Machine Vision
 Make it pop
 Marketing Automation
 Marketing Efforts
+Market Segmentation
 Masterclass
-Micro Moments
+Metaverse
 Micro-influencer marketing
+Micro Moments
 Microservice Driven Personalization Engine
 Microservices
 Millennials
 Mindset
 Minimum Viable Product
 Mobile first
+Mobile Optimization
 Moving forward
 Multichannel Marketing
 Multiexperience
@@ -162,6 +186,7 @@ Networking
 Neural Networks
 New Work
 Next Generation
+NFT
 No-Brainer
 Open Source
 Open Stack
@@ -182,12 +207,18 @@ Podcast
 Post Quantum Cryptography
 Project-Based Learning
 Proximity Marketing
+Quantum Algorithms
 Quantum Computing
+Quantum Cryptography
+Quantum Internet
+Quantum Machine Learning
+Quantum-Safe Encryption
 Real Time Marketing
 Real World Problems
 Rebranding
 Relationship Marketing
 Reliability
+Remote Workforce
 Renewable Energy
 Responsive
 Responsive Web Design
@@ -206,6 +237,7 @@ Serverless
 Service Mesh
 Shareholder
 Smart Buisness Automation
+Smart Cities
 Snackable Content
 Social Engineering
 Social Entrepreneurship
@@ -217,13 +249,14 @@ Spirit
 Stakeholder
 Startup
 Storyscaping
+Supply Chain Resilience
 Survival strategy
 Sustainability
 Swipe File
 Synergistic Alliances
-TED Talk
 Tagging
 Take Offline
+TED Talk
 Thought Leader
 Toolchain
 Transparency
@@ -234,15 +267,21 @@ Vegan
 Venture-Capital
 Viral
 Virtual Desktop Infrastructure
+Virtual Event
 Virtual Reality
 Visual Statements
 Visual Storytelling
 Wallstreet
 Web 2.0
-Web Personalization
+Web3.0
 Webinar
+Web Personalization
 White Label
 Win-win
 Workflow
 Youtube Algorithm
-eCommerce
+Zero-Day Vulnerability
+Zero-Emissions
+Zero-Touch Deployment
+Zero Trust Security
+Zero-Waste
