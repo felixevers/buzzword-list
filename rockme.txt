@@ -29,8 +29,8 @@ Buzzword
 Buzzword compliant
 Carbon Neutral
 Case Study
-Chatbot
 ChatOps
+Chatbot
 Chief Executive Officer
 Chief Financial Officer
 Chief Operating Officer
@@ -40,8 +40,8 @@ Clicks
 Close the Loop
 Cloud
 Cloud Compution
-Cloud-Native
 Cloud Working
+Cloud-Native
 Cognitive Load
 Computer Vision
 Consumer-zentriert
@@ -55,21 +55,21 @@ Coworking
 Coworking-Space
 Creative
 Cross-Paltfworm
-Customer-Centric
 Customer Experience
 Customer Journey
 Customer Lifetime Value
+Customer-Centric
 Customer-Relationship-Management
 Customer-To-Customer
 Cyber-physical Systems
 Data Anonymization
-Data-Driven Marketing
 Data Encryption
 Data Ethics
 Data Governance
 Data Mining
 Data Science
 Data Warehousing
+Data-Driven Marketing
 Decentralized Finance (DeFi)
 Deep Dive Technology
 Deep Learning
@@ -80,8 +80,8 @@ Digital Knowledge Management
 Digital Native
 Digital Rights Management
 Digital Storytelling
-Digital transformation
 Digital Unplugged
+Digital transformation
 Direct-to-Consumer
 Disruptive
 Disruptor
@@ -90,7 +90,6 @@ Distributed Ledger Technology (DLT)
 Downsizing
 Dropshipping
 Early Adopter
-eCommerce
 Edge Computing
 Emerging Markets
 Employee Advocacy Marketing
@@ -115,9 +114,9 @@ Fuzzy Logic
 Gamification
 Gamified Learning
 Gamified Marketing
+Gen Z
 Gender Equality
 Generation Y
-Gen Z
 Geofencing
 Geotargeting
 Geotargiting
@@ -147,9 +146,9 @@ Internet Pure Player
 Interoperability
 Invested in
 Jour Fixe
-Keynote
 Key Performance Indicator
 Key Performance Indicators
+Keynote
 Kick-Off Meeting
 Learnings
 Legal Tech
@@ -158,27 +157,28 @@ Lifehack
 Lose-Lose
 Low Hanging Fruits
 Loyalty As Service
-Machine learning
 Machine Learning Operations (MLOps)
 Machine Vision
+Machine learning
 Make it pop
+Market Segmentation
 Marketing Automation
 Marketing Efforts
-Market Segmentation
 Masterclass
 Metaverse
-Micro-influencer marketing
 Micro Moments
+Micro-influencer marketing
 Microservice Driven Personalization Engine
 Microservices
 Millennials
 Mindset
 Minimum Viable Product
-Mobile first
 Mobile Optimization
+Mobile first
 Moving forward
 Multichannel Marketing
 Multiexperience
+NFT
 National security
 Need Generation
 Net Neutrality
@@ -186,7 +186,6 @@ Networking
 Neural Networks
 New Work
 Next Generation
-NFT
 No-Brainer
 Open Source
 Open Stack
@@ -254,9 +253,9 @@ Survival strategy
 Sustainability
 Swipe File
 Synergistic Alliances
+TED Talk
 Tagging
 Take Offline
-TED Talk
 Thought Leader
 Toolchain
 Transparency
@@ -273,15 +272,16 @@ Visual Statements
 Visual Storytelling
 Wallstreet
 Web 2.0
+Web Personalization
 Web3.0
 Webinar
-Web Personalization
 White Label
 Win-win
 Workflow
 Youtube Algorithm
+Zero Trust Security
 Zero-Day Vulnerability
 Zero-Emissions
 Zero-Touch Deployment
-Zero Trust Security
 Zero-Waste
+eCommerce
