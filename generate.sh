@@ -2,11 +2,11 @@ README="README.md"
 WORDLIST="rockme.txt"
 WORDLIST_COMPRESSED="rockme.tar.gz"
 
-echo "Counting words..."
-WORD_COUNT=($(wc -l $WORDLIST))
-
 echo "Sorting wordlist..."
 sort -u -o $WORDLIST $WORDLIST
+
+echo "Counting words..."
+WORD_COUNT=($(wc -l $WORDLIST))
 
 echo "Compressing wordlist..."
 tar cfvz $WORDLIST_COMPRESSED $WORDLIST
