@@ -1,16 +1,16 @@
 # Buzzwords  
-The largest buzzword list collection on the globe. Including words like `Net`, `Neutrality`, `Quantum`, ... AND MANY MORE!!!
+The largest buzzword list collection on the globe. Including words like `Customer-Centric`, `Cloud`, `Working`, ... AND MANY MORE!!!
 
 ## Words  
-This wordlist contains 710 words. IT IS SOOO AMAZING!
+This wordlist contains 797 words. IT IS SOOO AMAZING!
 
 ## Checksums
 rockme.tar.gz
 | Algorithm | Checksum |
 |:----------|:----------------------------|
-| MD5       | 7e01fc5e048858810f16adda28e382f3 |
-| SHA1      | 2b1e6543aa5f0e92560d53dc3fee75028b755297 |
-| SHA256    | 5bfbdf664da88da5bded881e8abbc5801f20a3e6182a052495f87a9a0af5a03a |
+| MD5       | 0bec7544395e8159ef40a30873b29362 |
+| SHA1      | b257c2b699a6183b20b0c462a059df874d052aa6 |
+| SHA256    | 4bfd2d19e53872d86114fb6dab764ae512a867b911f4eabec58ccd6dcaf18e80 |
 
 ## Important
 Don't use normal text editors to open this file unless you have about 16 GB of RAM, or you may face RAM Crash.
