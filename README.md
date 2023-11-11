@@ -1,13 +1,16 @@
 # Buzzwords  
-The largest buzzword list collection on the globe. Including words like COWORKING... AND MANY MORE!!!
+The largest buzzword list collection on the globe. Including words like `Net`, `Neutrality`, `Quantum`, ... AND MANY MORE!!!
+
 ## Words  
 This wordlist contains 710 words. IT IS SOOO AMAZING!
+
 ## Checksums
 rockme.tar.gz
 | Algorithm | Checksum |
 |:----------|:----------------------------|
-| MD5       | 1d39b0c7834cdfe4387d2a4abc29073d |
-| SHA1      | bea4365b4e25e6219bb806277f114d7e63028453 |
-| SHA256    | 70226242a4f34f66538a1f6320ae98a3436991400db7090c50f1cbf11212c976 |
+| MD5       | 7e01fc5e048858810f16adda28e382f3 |
+| SHA1      | 2b1e6543aa5f0e92560d53dc3fee75028b755297 |
+| SHA256    | 5bfbdf664da88da5bded881e8abbc5801f20a3e6182a052495f87a9a0af5a03a |
+
 ## Important
 Don't use normal text editors to open this file unless you have about 16 GB of RAM, or you may face RAM Crash.
