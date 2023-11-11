@@ -3,6 +3,10 @@
 3D Printing Bioprinting
 5G
 5G Network Symbiosis
+AI-driven Music Composition
+AI-driven Storytelling
+AI-powered
+API-driven
 Adaptive
 Adaptive Learning Algorithms
 Advanced Materials Discovery
@@ -11,17 +15,13 @@ Affiliate Marketing
 Affinity Marketing
 Agile
 Agile DevOps Culture
-AI-driven Music Composition
-AI-driven Storytelling
-AI-powered
-Ambient computing
 Ambient Computing
 Ambient Energy Harvesting
 Ambient Intelligence
 Ambient Intelligence Ecosystems
 Ambient Intelligence Integration
+Ambient computing
 Analytics
-API-driven
 Application Programming Interface
 Artificial Intelligence
 Artificial Intelligence Driven Supply Chain Management
@@ -29,40 +29,39 @@ As-a-Service
 Augmented
 Augmented Biology
 Augmented Democracy Platforms
-Augmented reality
 Augmented Reality Commerce
 Augmented Reality Ecosystem
+Augmented reality
 Autonomous
 Autonomous Agriculture Drones
 Autonomous Decision Engines
 Autonomous Vehicles Integration
 Autoscaling
-Behavioral analytics
 Behavioral Targeting
+Behavioral analytics
 Best Practices
-Big data
 Big Data
+Big data
+Bio-Resilience
+Bio-Responsive Architecture
+Bio-Responsive Environments
+Bio-inspired
 Bioacoustic Sensing
 Biohacking Optimization
 Biohacking Synergy
 Biohazard Defense Systems
 Bioinformatics Fusion
 Bioinformatics Revolution
-Bio-inspired
-Biometric authentication
 Biometric Authentication Mesh
-Bio-Resilience
-Bio-Responsive Architecture
-Bio-Responsive Environments
+Biometric authentication
 Bitcoin
-bleeding-edge
 Blockchain
-Blockchain as a Service (BaaS)
 Blockchain Biohacking
-Blockchain-enabled
 Blockchain Integration
 Blockchain Oracles
+Blockchain as a Service (BaaS)
 Blockchain-Powered Supply Chain
+Blockchain-enabled
 Bounce Rate
 Brain-Computer Interface Gaming
 Brand
@@ -78,8 +77,8 @@ Buzzword
 Buzzword compliant
 Carbon Neutral
 Case Study
-Chatbot
 ChatOps
+Chatbot
 Chief Executive Officer
 Chief Financial Officer
 Chief Operating Officer
@@ -90,10 +89,10 @@ Clicks
 Close the Loop
 Cloud
 Cloud Compution
-Cloud-native
+Cloud Working
 Cloud-Native
 Cloud-Native Transformation
-Cloud Working
+Cloud-native
 Cognitive
 Cognitive Augmentation Networks
 Cognitive Computing Solutions
@@ -113,58 +112,58 @@ Cost-Per-Click
 Coworking
 Coworking-Space
 Creative
-Cross-functional
 Cross-Paltfworm
+Cross-functional
 Crowdfunding
 Crowdsourced
-Cryptocurrency
-Cryptocurrency Wallet Security
 Crypto-Ecology
-Cryptoeconomic Incentives
 Crypto-Ethics Frameworks
 Crypto-Resilience
-Customer-centric
-Customer-Centric
+Cryptocurrency
+Cryptocurrency Wallet Security
+Cryptoeconomic Incentives
 Customer Experience
-Customer journey
 Customer Journey
 Customer Lifetime Value
+Customer journey
+Customer-Centric
 Customer-Relationship-Management
 Customer-To-Customer
+Customer-centric
 Cutting-edge
-Cyber-physical
-Cyber-Physical Resilience
-Cyber-physical Systems
-Cyber-Physical Systems Fusion
 Cyber resilience
+Cyber-Physical Resilience
+Cyber-Physical Systems Fusion
+Cyber-physical
+Cyber-physical Systems
 Cyber-secure
 Dark Data Utilization
 Dark Matter Analytics
-Dark web analytics
 Dark Web Analytics
+Dark web analytics
 Data Anonymization
-Data-driven
-Data-driven Innovation
-Data-Driven Marketing
 Data Encryption
 Data Ethics
 Data Governance
 Data Mining
 Data Science
 Data Warehousing
+Data-Driven Marketing
+Data-driven
+Data-driven Innovation
 Decentralized Autonomous Organizations
 Decentralized Autonomous Organizations (DAOs)
 Decentralized Autonomous Vehicles
-Decentralized finance
 Decentralized Finance
 Decentralized Finance (DeFi)
 Decentralized Identity
 Decentralized Identity Management
+Decentralized finance
 Deep Dive Technology
-Deepfake Detection Systems
-Deep learning
 Deep Learning
 Deep Web
+Deep learning
+Deepfake Detection Systems
 Design Thinking
 DevOps
 Digital Asset Tokenization
@@ -173,10 +172,10 @@ Digital Knowledge Management
 Digital Native
 Digital Rights Management
 Digital Storytelling
-Digital transformation
-Digital twin
 Digital Twin Revolution
 Digital Unplugged
+Digital transformation
+Digital twin
 Direct-to-Consumer
 Disintermediate
 Disruptive
@@ -190,14 +189,13 @@ Dynamic
 Dynamic DNA Computing
 Dynamic Spectrum Allocation
 Early Adopter
-eCommerce
 Ecosystem-driven
 Edge AI
-Edge analytics
-Edge computing
 Edge Computing
 Edge Computing Synergy
 Edge Intelligence Platforms
+Edge analytics
+Edge computing
 Edge-to-Cloud Continuum
 Edge-to-Edge Computing
 Emerging Markets
@@ -217,10 +215,10 @@ Ethical AI Governance
 Ethical Tech Governance
 Exit Strategy
 Exo-Bioengineering
+Exo-Suit Augmentation
 Exoplanetary Data Mining
 Exoplanetary Exploration
 Exoplanetary Mining
-Exo-Suit Augmentation
 Experience-driven
 Experiential Learning Platforms
 Explainable AI
@@ -247,11 +245,11 @@ Gamified
 Gamified Learning
 Gamified Learning Experiences
 Gamified Marketing
+Gen Z
 Gender Equality
 Gene Editing Therapies
 Generation Y
 Genomic Data Sovereignty
-Gen Z
 Geofencing
 Geotargeting
 Geotargiting
@@ -262,8 +260,8 @@ Green
 Green IT
 Green Tech
 Green Tech Innovations
-Growth hacking
 Growth Hacking
+Growth hacking
 Hackathon
 Haptic Feedback Systems
 Hashtag
@@ -278,18 +276,18 @@ Holographic Interfaces
 Holographic Telepresence Systems
 Home Office
 Host
-Human-centric
 Human-Centric Design Thinking
-Humanized Automation
 Human-Machine Symbiosis
+Human-centric
+Humanized Automation
 Hyperautomation
 Hyperconnected Collaboration
 Hyperlocal
 Ideation
 Immersive Cybersecurity
-Immersive experience
 Immersive Storytelling
 Immersive Virtual Experiences
+Immersive experience
 Inclusive design
 Industry 4.0
 Industry leading
@@ -306,9 +304,9 @@ Interoperability
 Intuitive User Empowerment
 Invested in
 Jour Fixe
-Keynote
 Key Performance Indicator
 Key Performance Indicators
+Keynote
 Kick-Off Meeting
 Learnings
 Legal Tech
@@ -318,75 +316,75 @@ Liquid Workforce Management
 Lose-Lose
 Low Hanging Fruits
 Loyalty As Service
-Machine learning
 Machine Learning Operations (MLOps)
-Machine-to-machine
 Machine Vision
+Machine learning
+Machine-to-machine
 Make it pop
+Market Segmentation
 Marketing Automation
 Marketing Efforts
-Market Segmentation
 Masterclass
 Meta-learning
 Metaverse
 Metaverse Economy Boost
 Metaverse Real Estate
 Metaverse Realities
-Micro-influencer marketing
 Micro Moments
+Micro-influencer marketing
 Microservice Driven Personalization Engine
 Microservices
 Millennials
 Mindfulness Tech Integration
 Mindset
 Minimum Viable Product
+Mobile Optimization
 Mobile first
 Mobile-first
-Mobile Optimization
 Modular
 Monetize
 Moving forward
 Multichannel
 Multichannel Marketing
 Multiexperience
+NFT
 Nano
-Nanobot Swarms
 Nano-Medicine Innovations
 Nano-scale Robotics
+Nanobot Swarms
 National security
 Need Generation
 Net Neutrality
+Net zero
 Networked
 Networking
-Net zero
 Neural Interface Protocols
 Neural Network Empowerment
 Neural Networks
 Neuro-Adaptive Systems
-Neuroaesthetics Integration
-Neurocapitalism
 Neuro-Digital Integration
 Neuro-Diversity Inclusion
 Neuro-Enhanced Reality
+Neuro-Inclusive Design
+Neuro-Security Protocols
+Neuro-Tech Integration
+Neuroaesthetics Integration
+Neurocapitalism
 Neurofeedback Optimization
 Neurofeedback Platforms
-Neuro-Inclusive Design
 Neuromorphic Computing Integration
 Neuromorphic Integration
 Neuromorphic Security Systems
-Neuro-Security Protocols
-Neuro-Tech Integration
 New Work
-Next-gen
 Next Generation
-NFT
+Next-gen
 Niche
 No-Brainer
 Omni-channel
-Open-source
 Open Source
 Open Source Quantum Computing
 Open Stack
+Open-source
 Opportunities
 Outsourcing
 Paid Placement
@@ -414,19 +412,17 @@ Precision Analytics
 Precision Health Platforms
 Precision Medicine Analytics
 Predictive
+Predictive Personalization
 Predictive analytics
 Predictive maintenance
-Predictive Personalization
 Project-Based Learning
 Proximity Marketing
-Quantum Acceleration
 Quantum AI as a Service
+Quantum Acceleration
 Quantum Algorithms
-Quantum-Assisted Design
 Quantum Augmented Reality
 Quantum Biomimicry
 Quantum Cognitive Computing
-Quantum computing
 Quantum Computing
 Quantum Computing Resilience
 Quantum Computing Synergy
@@ -438,52 +434,54 @@ Quantum Data Integrity
 Quantum Economic Models
 Quantum Emotional Intelligence
 Quantum Empathy Networks
-Quantum encryption
 Quantum Encryption
 Quantum Encryption Mesh
 Quantum Energy Harvesting
-Quantum-enhanced Financial Trading
-Quantum-enhanced Imaging
-Quantum-enhanced Materials
-Quantum-Enhanced Sensing
 Quantum Ethics Framework
 Quantum Experiences
 Quantum Gaming Platforms
 Quantum Hedge Funds
-Quantum-Inspired Design
 Quantum Internet
 Quantum Internet Infrastructure
-Quantum key distribution
 Quantum Machine Learning
 Quantum Mesh Computing
-Quantum Meshing
 Quantum Mesh Internet
 Quantum Mesh Networks
+Quantum Meshing
 Quantum Neural Networks
 Quantum Precision Medicine
-Quantum-ready
 Quantum Resilience
-Quantum-resistant
-Quantum-Resistant Encryption
 Quantum Robotic Surgery
-Quantum-Safe Cryptography
-Quantum-Safe Encryption
 Quantum Sensing Networks
 Quantum Supply Chain Visibility
 Quantum Swarm Learning
 Quantum Weather Prediction
-Real-time
+Quantum computing
+Quantum encryption
+Quantum key distribution
+Quantum-Assisted Design
+Quantum-Enhanced Sensing
+Quantum-Inspired Design
+Quantum-Resistant Encryption
+Quantum-Safe Cryptography
+Quantum-Safe Encryption
+Quantum-enhanced Financial Trading
+Quantum-enhanced Imaging
+Quantum-enhanced Materials
+Quantum-ready
+Quantum-resistant
 Real Time Marketing
+Real World Problems
+Real-time
 Real-time Predictive Maintenance
 Real-world evidence
-Real World Problems
 Rebranding
 Red teaming
 Regenerative
 Relationship Marketing
 Reliability
-Remote collaboration
 Remote Workforce
+Remote collaboration
 Renewable Energy
 Resilience Engineering
 Resilient
@@ -498,20 +496,20 @@ Roadmap
 Robo-Advisory Platforms
 Robotic
 Robotic Process Orchestration
-Robotics
 Robotic Swarm Autonomy
 Robotic Swarm Orchestration
+Robotics
 Robust
 Scalability
 Scalable
 Search engine optimization
 Second-Screen
 Self Driving
-Self-healing
 Self-Healing Cybersecurity
-Self-optimizing
 Self-Optimizing Algorithms
 Self-Optimizing Systems
+Self-healing
+Self-optimizing
 Sementic Web
 Sensorization
 Serverless
@@ -519,40 +517,40 @@ Service Mesh
 Shareholder
 Smart
 Smart Buisness Automation
-Smart cities
 Smart Cities
-Smart contracts
 Smart Dust Technology
+Smart cities
+Smart contracts
 Snackable Content
 Social Augmentation Platforms
-Social engineering
 Social Engineering
 Social Entrepreneurship
-Socially responsible
 Social Media Marketing
+Social engineering
+Socially responsible
 Software-Defined Networking
 Soulution
 Space Debris Cleanup
 Space Tourism Infrastructure
 Spatial Audio Experiences
-Spatial computing
 Spatial Computing Interfaces
 Spatial Computing Synergy
+Spatial computing
 Spin-Up
 Spirit
 Stakeholder
 Startup
 Storyscaping
-Supply chain resilience
 Supply Chain Resilience
+Supply chain resilience
 Survival strategy
 Sustainability
 Sustainable
-Sustainable development
 Sustainable Disruption
 Sustainable Energy Grid Orchestration
 Sustainable Tech Ecosystems
 Sustainable Urban Tech
+Sustainable development
 Swarm Intelligence Optimization
 Swarm Intelligence Orchestration
 Swarm Robotics
@@ -565,9 +563,9 @@ Synergistic Paradigms
 Synthetic Biology Platforms
 Synthetic Consciousness
 Synthetic Sentience
+TED Talk
 Tagging
 Take Offline
-TED Talk
 Thought Leader
 Threat hunting
 Threat intelligence
@@ -595,20 +593,22 @@ Wallstreet
 Wearable
 Wearable Health Tech
 Web 2.0
+Web Personalization
 Web3.0
 Webinar
-Web Personalization
 White Label
 Win-win
 Workflow
 Youtube Algorithm
-Zero-day
-Zero-Day Vulnerability
-Zero emissions
-Zero-Emissions
-Zero-touch
-Zero-Touch Deployment
-Zero trust
 Zero Trust Security
+Zero emissions
+Zero trust
+Zero-Day Vulnerability
+Zero-Emissions
+Zero-Touch Deployment
 Zero-Trust Security Architecture
 Zero-Waste
+Zero-day
+Zero-touch
+bleeding-edge
+eCommerce
