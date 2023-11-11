@@ -1,6 +1,11 @@
 README="README.md"
 WORDLIST="rockme.txt"
+TMP_WORDLIST="tmp_rockme.txt"
 WORDLIST_COMPRESSED="rockme.tar.gz"
+
+echo "Trim entire wordlist..."
+sed 's/^ *//; s/ *$//; /^$/d' $WORDLIST > $TMP_WORDLIST
+mv $TMP_WORDLIST $WORDLIST
 
 echo "Sorting wordlist..."
 sort -u -o $WORDLIST $WORDLIST
